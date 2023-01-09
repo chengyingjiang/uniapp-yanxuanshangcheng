@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@escook/request-miniprogram": "^0.2.1",
+    "vuex": "^4.1.0"
+  },
+  "contributes": {
+    "formator": {
+      "name": "Prettier",
+      "class": "prettier_service.js",
+      "filetypes": [
+        "less",
+        "sass",
+        "scss",
+        "vue",
+        "ux",
+        "ts",
+        "foo"
+      ]
+    }
+  }
+}

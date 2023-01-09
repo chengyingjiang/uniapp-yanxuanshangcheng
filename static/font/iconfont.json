@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "637499",
+      "name": "钱币",
+      "font_class": "qianbi",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "2418274",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "5388028",
+      "name": "地图_定位_o",
+      "font_class": "ditu_dingwei_o",
+      "unicode": "ebbb",
+      "unicode_decimal": 60347
+    }
+  ]
+}
